@@ -130,8 +130,15 @@ http://localhost:5000/uploads/<file-name>
 
 
 ### Output:
-![image](https://github.com/user-attachments/assets/112ba942-f491-48d6-b821-2907f7a85692)
+Chceking in Postman
+
+![image](https://github.com/user-attachments/assets/d729b80d-d436-4dd4-bdad-815bb61d50f0)
+Selecting Files 
 ![image](https://github.com/user-attachments/assets/9082b1e5-99fd-493e-aa7f-b945986ceb3a)
+
+API Call Via UI
+![image](https://github.com/user-attachments/assets/112ba942-f491-48d6-b821-2907f7a85692)
+File will be added into DB 
 ![image](https://github.com/user-attachments/assets/66d81ff7-49fc-4f28-b517-df0055f5c06d)
 
 
